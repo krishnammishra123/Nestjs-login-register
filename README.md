@@ -6,7 +6,7 @@ Welcome to your NestJS project that includes user registration, email verificati
 # Features
 
 - User registration with email verification with hashed password
-- Login with Jwt Token
+- Login with Jwt Token.
 - Forgot and reset password functionality
 - JWT authentication
 - Role-based authentication 
